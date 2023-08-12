@@ -6,7 +6,7 @@ const Portfolio = () => {
     <div className={style.container}>
       <h1 className={style.selectTitle}>chose a gallary</h1>
       <div className={style.items}>
-        <Link href='/portfolio/illustration' className={style.item}>
+        <Link href='/portfolio/illustrations' className={style.item}>
         <span className={style.title}>Ilustration</span>
         </Link>
         <Link href='/portfolio/websites' className={style.item}>

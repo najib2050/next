@@ -4,6 +4,7 @@ module.exports = {
         {
           protocol: 'https',
           hostname: 'images.unsplash.com',
+          hostname: "images.pexels.com",
         },
       ],
     },
